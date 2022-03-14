@@ -1,4 +1,4 @@
-# BEEP BOOP
+# VendyMachine Case Study
 
 A chat bot for Twitch.
 
